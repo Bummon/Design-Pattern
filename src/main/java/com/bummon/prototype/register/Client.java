@@ -2,8 +2,8 @@ package com.bummon.prototype.register;
 
 import com.bummon.prototype.register.prototype.Prototype;
 import com.bummon.prototype.register.prototype.PrototypeManager;
-import com.bummon.prototype.register.prototype.concrete.ConcretePrototypeA;
-import com.bummon.prototype.register.prototype.concrete.ConcretePrototypeB;
+import com.bummon.prototype.register.prototype.impl.ConcretePrototypeA;
+import com.bummon.prototype.register.prototype.impl.ConcretePrototypeB;
 
 /**
  * @author Bummon

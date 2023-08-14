@@ -1,9 +1,9 @@
-package com.bummon.factory.abstraction.factory.concrete;
+package com.bummon.factory.abstraction.factory.impl;
 
 import com.bummon.factory.abstraction.factory.AbstractFactory;
 import com.bummon.factory.abstraction.family.Food;
-import com.bummon.factory.abstraction.family.product.concrete.Chips;
-import com.bummon.factory.abstraction.family.product.concrete.Rice;
+import com.bummon.factory.abstraction.family.product.impl.Chips;
+import com.bummon.factory.abstraction.family.product.impl.Rice;
 
 /**
  * @author Bummon

@@ -1,4 +1,4 @@
-package com.bummon.prototype.register.prototype.concrete;
+package com.bummon.prototype.register.prototype.impl;
 
 import com.bummon.prototype.register.prototype.Prototype;
 

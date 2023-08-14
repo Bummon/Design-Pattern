@@ -1,4 +1,4 @@
-package com.bummon.factory.abstraction.family.product.concrete;
+package com.bummon.factory.abstraction.family.product.impl;
 
 import com.bummon.factory.abstraction.family.product.StapleFood;
 

@@ -1,4 +1,4 @@
-package com.bummon.factory.abstraction.family.product.concrete;
+package com.bummon.factory.abstraction.family.product.impl;
 
 import com.bummon.factory.abstraction.family.product.Snacks;
 
@@ -7,9 +7,9 @@ import com.bummon.factory.abstraction.family.product.Snacks;
  * @description 具体产品 博客地址：https://blog.bummon.com/blog/1417187187.html
  * @date 2023-08-14 14:48
  */
-public class Hamburger extends Snacks {
+public class Chips extends Snacks {
     @Override
     public void description() {
-        System.out.println("汉堡");
+        System.out.println("薯条");
     }
 }

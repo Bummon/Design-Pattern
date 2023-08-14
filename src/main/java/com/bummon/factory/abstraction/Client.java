@@ -1,7 +1,7 @@
 package com.bummon.factory.abstraction;
 
-import com.bummon.factory.abstraction.factory.concrete.FoodFactoryA;
-import com.bummon.factory.abstraction.factory.concrete.FoodFactoryB;
+import com.bummon.factory.abstraction.factory.impl.FoodFactoryA;
+import com.bummon.factory.abstraction.factory.impl.FoodFactoryB;
 
 /**
  * @author Bummon
