@@ -1,11 +1,11 @@
-package com.bummon.builder.entity;
+package com.bummon.builder.product.concrete;
 
 import lombok.Data;
 import lombok.ToString;
 
 /**
  * @author Bummon
- * @description
+ * @description 具体产品（Concrete Product） 博客地址：https://blog.bummon.com/blog/4269894716.html
  * @date 2023-08-14 15:42
  */
 @Data

@@ -1,11 +1,11 @@
 package com.bummon.builder;
 
 import com.bummon.builder.builder.concrete.CarBuilder;
-import com.bummon.builder.entity.Car;
+import com.bummon.builder.product.concrete.Car;
 
 /**
  * @author Bummon
- * @description
+ * @description 建造者模式 博客地址：https://blog.bummon.com/blog/4269894716.html
  * @date 2023-08-14 15:45
  */
 public class Client {
