@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.bummon</groupId>
     <artifactId>Design-Pattern</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Design-Pattern</name>
     <description>Design-Pattern</description>
     <properties>
@@ -19,7 +19,12 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
 
         <dependency>
