@@ -1,4 +1,5 @@
 # 设计模式示例代码
+
 [Bummon's Blog](https://blog.bummon.com/)&ensp;|&ensp;[Bummon's Home](https://www.bummon.com/)&ensp;|&ensp;[公众号](https://www.bummon.com/wechat/) 
 
 设计模式相关代码，建议配合博客一起阅读↑
@@ -26,3 +27,5 @@
 - [解释器模式](/src/main/java/com/bummon/interpreter)&ensp;|&ensp;[博文](http://blog.bummon.com/blog/818875602.html)
 - [中介者模式](/src/main/java/com/bummon/mediator)&ensp;|&ensp;[博文](http://blog.bummon.com/blog/3493201692.html)
 
+
+<img src="https://cdn.jsdelivr.net/gh/Bummon/Design-Pattern/assets/promotion-qrcode-green.png" width="400" height="150" />
